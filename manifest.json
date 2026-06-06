@@ -1,0 +1,18 @@
+{
+  "name": "cocora",
+  "short_name": "cocora",
+  "description": "a cute pink music player ♡",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f8f7f2",
+  "theme_color": "#f6b7cd",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./assets/icon.png",
+      "sizes": "502x497",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
