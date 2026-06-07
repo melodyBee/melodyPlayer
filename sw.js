@@ -1,4 +1,4 @@
-const CACHE = 'cocora-v2'
+const CACHE = 'cocora-v3'
 const ASSETS = [
     './',
     './index.html',
