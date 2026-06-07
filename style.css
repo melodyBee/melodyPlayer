@@ -157,7 +157,10 @@ body {
     align-items: center;
     justify-content: center;
 }
+#h1:hover{
+    
 
+}
 .card-idle {
     display: flex;
     flex-direction: column;
